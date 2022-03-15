@@ -1,6 +1,6 @@
 ## Olá! Eu sou Cleiton Schwambach Gaioti
 
-- 🔭 Hoje trabalho com Bussiness Inteligence
+- 🔭 Hoje sou estagiário em análise de dados
 - 🌱 Estudando Data Science
 
 <div align="center">
