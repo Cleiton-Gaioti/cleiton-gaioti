@@ -1,7 +1,7 @@
 ## Olá! Eu sou Cleiton Schwambach Gaioti
 
-- 🔭 Hoje sou estagiário em análise de dados
-- 🌱 Estudando Data Science
+- 🔭 Analista de Dados
+- 🌱 Pós-Graduando em Engenharia de Dados
 
 <div align="center">
   <a href="https://github.com/Cleiton-Gaioti">
